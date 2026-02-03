@@ -1,0 +1,2 @@
+# mlops-course
+Practicing mlops
