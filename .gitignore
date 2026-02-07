@@ -10,7 +10,6 @@ __pycache__/
 .Python
 .mlops_env/
 .idea
-.vercel
 build/
 develop-eggs/
 dist/
@@ -46,6 +45,7 @@ htmlcov/
 .coverage
 .coverage.*
 .cache
+workbook.py
 nosetests.xml
 coverage.xml
 *.cover
