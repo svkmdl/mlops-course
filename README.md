@@ -30,6 +30,11 @@ vercel --version
 vercel login
 ```
 
+## Add API keys to vercel env variable
+```commandline
+vercel env add OPENAI_API_KEY
+```
+
 ## Deploy
 ```commandline
 vercel .
